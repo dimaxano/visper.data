@@ -1,0 +1,7 @@
+scenedetect==0.5
+cv2>=3.4
+youtube-dl -> https://github.com/rg3/youtube-dl/blob/master/README.md
+requests
+pytube
+tqdm
+youtube_transcript_api

@@ -1,0 +1,6 @@
+.vscode/
+__pycache__/
+.pytest_cache/
+face_tracking/output/
+results/
+data/
