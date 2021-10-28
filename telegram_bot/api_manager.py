@@ -70,7 +70,8 @@ def main():
 
     """Start the bot."""
     # Create the EventHandler and pass it your bot's token.
-    updater = Updater(token='538339749:AAGHpXrE-BRZyB49SgRWlQBXgTVX4r1xBuU')
+    tg_bot_token = ""
+    updater = Updater(token=tg_bot_token)
 
     # Get the dispatcher to register handlers
     dp = updater.dispatcher
